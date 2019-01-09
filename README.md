@@ -21,3 +21,5 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 
 https://weibo.com/aj/static/upimgback.html?_wv=5&callback=STK_ijax_154704360386533&ret=1&pid=007y3RUmgy1fz0p195rn2j30k00dbt97
+
+js:http://js.t.sinajs.cn/t5/home/js/page/content/simplePublish.js
